@@ -29,7 +29,7 @@ function App() {
 
   return (
     <>
-      <h1>hooks</h1>
+      <h1>Sameer Pathak</h1>
       <h2>counter value : {counter}</h2>
 
       <button onClick={addvalue}>Add Value {counter}</button>
